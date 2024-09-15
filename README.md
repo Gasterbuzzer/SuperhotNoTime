@@ -1,7 +1,7 @@
-﻿﻿# Superhot No Time
+﻿﻿
+# Superhot No Time
 
 A very small mod that disables the time mechanic from the game. Now the game runs at almost normal speeds.
-
 
 # How to Install:
 1. Download MelonLoader from the official website: [MelonLoader Download](https://melonwiki.xyz/#/?id=requirements)
