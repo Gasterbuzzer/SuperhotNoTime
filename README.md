@@ -4,7 +4,7 @@
 A very small mod that disables the time mechanic from the game. Now the game runs at almost normal speeds.
 
 # How to Install:
-1. Download MelonLoader from the official website: [MelonLoader Download](https://melonwiki.xyz/#/?id=requirements)
+1. Download and install MelonLoader from the official website: [MelonLoader Download](https://melonwiki.xyz/#/?id=requirements)
 
 2. Alternative Download Page: ﻿[MelonLoader Releases](https://github.com/LavaGang/MelonLoader/releases/)
 
