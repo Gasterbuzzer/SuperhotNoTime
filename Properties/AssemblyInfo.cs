@@ -1,19 +1,17 @@
 ﻿using MelonLoader;
 using SuperhotNoTime;
-using System;
 using System.Reflection;
-using System.Runtime.CompilerServices;
 using System.Runtime.InteropServices;
 
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 [assembly: AssemblyTitle("SuperhotNoTime")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyDescription("Mod which disables the time slow mechanic.")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
 [assembly: AssemblyProduct("SuperhotNoTime")]
-[assembly: AssemblyCopyright("Copyright ©  2024")]
+[assembly: AssemblyCopyright("Copyright © 2026")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
@@ -32,10 +30,10 @@ using System.Runtime.InteropServices;
 //      Build Number
 //      Revision
 //
-[assembly: AssemblyVersion("1.0.0.0")]
-[assembly: AssemblyFileVersion("1.0.0.0")]
+[assembly: AssemblyVersion("1.0.1.0")]
+[assembly: AssemblyFileVersion("1.0.1.0")]
 
-[assembly: MelonInfo(typeof(MainClass), "Superhot No Time", "1.0.0", "Gasterbuzzer", "https://github.com/Gasterbuzzer/SuperhotNoTime/releases/")]
+[assembly: MelonInfo(typeof(MainClass), "Superhot No Time", "1.0.1", "Gasterbuzzer", "https://github.com/Gasterbuzzer/SuperhotNoTime/releases/")]
 [assembly: MelonGame("SUPERHOT_Team", "SUPERHOT")]
-[assembly: MelonAuthorColor(ConsoleColor.Magenta)]
+[assembly: MelonAuthorColor(255, 255, 0, 255)]
 [assembly: MelonPriority(99)]
